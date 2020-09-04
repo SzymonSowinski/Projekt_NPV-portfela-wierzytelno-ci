@@ -14,6 +14,8 @@ Szymon Sowiński
 
 Dane:
 
+https://github.com/KrukUwr/Lab2019/blob/master/KrukUWr2019.RData
+
 Dane dotyczące wierzytelności poszczególnych spraw.
 
     Składają się z dwóch tabel 
